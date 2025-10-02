@@ -1,0 +1,5 @@
+A=float(input("Digite o valor: "))
+B=float(input("Digite o tempo: "))
+C=float(input("Digite uma taxa: "))
+prestacao= A+(A*(C/100)*B)
+print("O valor da prestação atrasada é de: ", prestacao)
