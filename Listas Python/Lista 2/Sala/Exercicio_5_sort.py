@@ -1,0 +1,5 @@
+A=float(input("Valor A: "))
+B=float(input("Valor B: "))
+C=float(input("Valor B: "))
+valores_sort=sorted([A, B, C])
+print("Os valores em ordem crescente são: ", valores_sort)
