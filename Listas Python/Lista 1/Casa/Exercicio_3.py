@@ -1,1 +1,0 @@
-AP=float(input("Qual a altura da parede"))
