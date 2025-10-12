@@ -1,0 +1,6 @@
+AP=float(input("Qual a altura da parede: "))
+LP=float(input("Qual a largura da parede: "))
+AA=float(input("Qual a altura do azulejo:"))
+LA=float(input("Qual a largura do azulejo: "))
+tot_azul=(AP*LP)/(AA*LA)
+print("O total de azulejos necessários para azuljar a parede é: ", tot_azul)
